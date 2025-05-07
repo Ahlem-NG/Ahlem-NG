@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahlem Naggati</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
-
+<span align="center">Java ☕ | Spring Boot ⚙️ | Angular 🔥 | React ⚛️ | Kafka 🪓 | DevOps Enthusiast 🚀</span>
 ---
 
 <p align="center">
