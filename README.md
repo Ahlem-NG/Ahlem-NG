@@ -65,6 +65,8 @@
 
 ---
 
-### ⚡ Fun Fact
-I enjoy solving logic puzzles and exploring new coffee shops in my spare time ☕🧩
+### 🎯 Career Goals
+
+I'm driven by continuous improvement — both personally and professionally.
+My goal is to contribute to impactful, innovative projects and grow into a leadership role where I can architect scalable systems and help cultivate a forward-thinking engineering culture grounded in effective, modern methodologies.
 
