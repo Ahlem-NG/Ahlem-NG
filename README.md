@@ -44,12 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/85409108?s=400&u=2850eda0bff21404e1f7541b287ddd609afe9ab6&v=4"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
