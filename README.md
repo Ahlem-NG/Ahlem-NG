@@ -6,7 +6,7 @@
 
 <p align="center">
   I'm a dedicated Software Engineer with a strong focus on crafting clean, scalable, and high-performance applications.<br>
-  My passion lies in full-stack development, system design, and learning emerging technologies.<br>
+  My passion lies in information systems development, system design, and learning emerging technologies.<br>
   Always striving to solve real-world problems with elegant code and innovative thinking.
 </p>
 
